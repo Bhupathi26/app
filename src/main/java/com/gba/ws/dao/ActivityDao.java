@@ -20,7 +20,7 @@ import com.gba.ws.model.TemporalConditionDto;
 import com.gba.ws.model.ThresholdConditionsDto;
 import com.gba.ws.model.UserActivitiesDto;
 import com.gba.ws.model.UserActivitiesRunsDto;
-
+//helloworld
 /**
  * 
  * @author Mohan

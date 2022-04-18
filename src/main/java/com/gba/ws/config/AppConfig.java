@@ -17,7 +17,7 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 import com.gba.ws.util.AppAuthentication;
-
+//helloworld
 /**
  * Extends {@link WebMvcConfigurerAdapter} class, provides application
  * configuration details.
@@ -27,7 +27,7 @@ import com.gba.ws.util.AppAuthentication;
  */
 @Configuration
 public class AppConfig extends WebMvcConfigurerAdapter {
-
+	//helloworld
 	private static final int CONNECTION_TIMEOUT = (int) TimeUnit.SECONDS.toMillis(10);
 	private static final int READ_TIMEOUT = (int) TimeUnit.SECONDS.toMillis(60);
 

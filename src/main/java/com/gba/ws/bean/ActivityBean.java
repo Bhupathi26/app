@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.gba.ws.model.CratWordsDto;
-
 /**
  * Provides activity information.
  * 
@@ -18,7 +17,7 @@ public class ActivityBean {
 	private MetaDataBean metadata = new MetaDataBean();
 	private List<Object> steps = new ArrayList<>();
 	private List<CratWordsDto> cratWordsList = new ArrayList<>();
-
+	//helloworld
 	public String getType() {
 		return type;
 	}
@@ -28,6 +27,7 @@ public class ActivityBean {
 		return this;
 	}
 
+	//helloworld
 	public MetaDataBean getMetadata() {
 		return metadata;
 	}

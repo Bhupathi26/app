@@ -12,7 +12,7 @@ import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 
 import org.hibernate.annotations.Type;
-
+//helloworld
 /**
  * Provides activities details created in Qualtrics.
  * 

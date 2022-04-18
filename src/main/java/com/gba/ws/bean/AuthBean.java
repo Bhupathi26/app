@@ -17,6 +17,7 @@ public class AuthBean {
 
 	public String getStatus() {
 		return status;
+		//helloworld
 	}
 
 	public AuthBean setStatus(String status) {
@@ -26,6 +27,7 @@ public class AuthBean {
 
 	public String getAuthKey() {
 		return authKey;
+		//helloworld
 	}
 
 	public AuthBean setAuthKey(String authKey) {

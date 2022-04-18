@@ -18,6 +18,7 @@ public class ActivityDetailsResponse {
 	public ActivityDetailsResponse setError(ErrorBean error) {
 		this.error = error;
 		return this;
+		//helloworld
 	}
 
 	public ActivityBean getActivity() {
@@ -26,6 +27,7 @@ public class ActivityDetailsResponse {
 
 	public ActivityDetailsResponse setActivity(ActivityBean activity) {
 		this.activity = activity;
+		//helloworld
 		return this;
 	}
 

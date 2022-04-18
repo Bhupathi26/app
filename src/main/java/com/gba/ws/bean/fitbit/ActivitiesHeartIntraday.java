@@ -17,6 +17,7 @@ public class ActivitiesHeartIntraday {
 	private String datasetInterval = "";
 
 	public String getDatasetType() {
+		//helloworld
 		return this.datasetType;
 	}
 
@@ -26,6 +27,7 @@ public class ActivitiesHeartIntraday {
 	}
 
 	public List<RestingDataset> getDataset() {
+		//helloworld
 		return this.dataset;
 	}
 

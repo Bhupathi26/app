@@ -1,5 +1,5 @@
 package com.gba.ws.exception;
-
+//helloworld
 /**
  * Extends {@link Exception} class, provides occured exception details
  * 
