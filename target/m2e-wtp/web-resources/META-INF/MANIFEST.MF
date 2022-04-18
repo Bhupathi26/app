@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Bhupathi
+Build-Jdk: 15.0.2
+Implementation-Title: app-lab-ws
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gba.ws
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/app-lab-ws/
+Main-Class: com.gba.ws.ServletInitializer
+Created-By: Maven Integration for Eclipse
+
